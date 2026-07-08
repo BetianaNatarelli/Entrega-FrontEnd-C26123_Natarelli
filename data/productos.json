@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "nombre": "Arcoiris",
+    "precio": 20000,
+    "img": "img/arcoiris.jpg"
+  },
+  {
+    "id": "2",
+    "nombre": "Abecedario",
+    "precio": 38000,
+    "img": "img/abecedario.png"
+  },
+  {
+    "id": "3",
+    "nombre": "Cubo de encastre",
+    "precio": 42000,
+    "img": "img/cubo.png"
+  },
+  {
+    "id": "4",
+    "nombre": "Cochecitos",
+    "precio": 25000,
+    "img": "img/cochecitos.png"
+  }
+]
